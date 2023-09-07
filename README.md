@@ -7,4 +7,4 @@ Key features:
 
 1. In this quiz you will get five questions about me.
 1. You will be awarded with scores after each right attempt.
-2. At the end, you'll be shown some of the highscores from the quiz to check whether you beaten highscorer or not.
+2. At the end, you'll be shown some of the highscores from the quiz to check whether you have beaten highscorer or not.
